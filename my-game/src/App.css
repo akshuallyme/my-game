@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+.game-container {
+  background-color: #a0d8f1;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;  /* center left↔right */
+  align-items: center;      /* center up↕down */
+  background: #a0d8f1;      /* optional sky color */
+}
